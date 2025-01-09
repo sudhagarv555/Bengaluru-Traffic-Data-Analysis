@@ -25,8 +25,12 @@ What factors contribute to delays and congestion in key traffic hotspots?
 
 ## process
 Data Collection: Gather traffic, accident, and road infrastructure data from sources like HiHub, GPS systems, and government portals.
+
 Data Cleaning: Preprocess data by removing duplicates, handling missing values, and ensuring timestamp consistency.
+
 Data Modeling: Create relationships between datasets (e.g., location, time) and define calculated measures like congestion index or accident frequency.
+
 Visualization: Design Power BI dashboards with heatmaps, line charts, and bar graphs for accident hotspots, peak traffic hours, and travel time.
+
 Predictive Analytics: Use historical data to forecast traffic patterns and predict accident-prone areas.
 
