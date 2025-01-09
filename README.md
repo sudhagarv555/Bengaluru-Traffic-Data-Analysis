@@ -20,8 +20,8 @@ Which routes have the longest average travel time during rush hours?
 How has traffic volume changed over the past year in high-density zones?
 What factors contribute to delays and congestion in key traffic hotspots?
 
-## Dashboard 
--<a href="https://github.com/sudhagarv555/Bengaluru-Traffic-Data-Analysis/blob/main/POWER%20BI%20PROJECT.pbix">View Dashboard</a>
+
+-Dashboard Interaction<a href="https://github.com/sudhagarv555/Bengaluru-Traffic-Data-Analysis/blob/main/POWER%20BI%20PROJECT.pbix">View Dashboard</a>
 
 ## process
 Data Collection: Gather traffic, accident, and road infrastructure data from sources like HiHub, GPS systems, and government portals.
@@ -33,4 +33,8 @@ Data Modeling: Create relationships between datasets (e.g., location, time) and 
 Visualization: Design Power BI dashboards with heatmaps, line charts, and bar graphs for accident hotspots, peak traffic hours, and travel time.
 
 Predictive Analytics: Use historical data to forecast traffic patterns and predict accident-prone areas.
+
+## Dashboard
+![Screenshot 2025-01-09 102321](https://github.com/user-attachments/assets/d1b7d855-1a42-4fca-8cb2-4688c9f35068)
+
 
