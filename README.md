@@ -6,3 +6,7 @@ This project analyzes traffic data for the city of Bengaluru using Power BI. The
 Interactive Dashboards: Visualize traffic patterns and hotspots.
 Data Analysis: Focus on accident frequency, peak traffic hours, and congestion.
 Predictive Analytics: Forecasting traffic trends for better infrastructure planning.
+
+# Dataset Used
+-<a href ="https://github.com/sudhagarv555/Bengaluru-Traffic-Data-Analysis/blob/main/Banglore_traffic_Dataset.csv">Dataset</a>
+
